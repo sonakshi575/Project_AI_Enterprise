@@ -1,4 +1,5 @@
-#K-NN classifier to predict the presence of heart disease in a patient or not
+# K-NN classifier to predict the presence of heart disease in a patient or not
+
 
 age — age in years
 
